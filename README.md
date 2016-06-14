@@ -1,5 +1,5 @@
-#_README for Stack-underflow_#
-###Created by Noah Kittleson###
+#_README for JustAssk_#
+###Created by Jake Richmond###
 
 This is an Ember app where users may submit questions for other users to answer.  Questions are all displayed on the homepage, with each one having a link to their their own page where you can see their answers.
 
